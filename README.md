@@ -1,4 +1,4 @@
-![FORJA Match](https://placehold.co/400x200)
+![FORJA Math Logo](https://forja-match.netlify.app/forja_match_logo.png)
 
 # Título do Documento
 
